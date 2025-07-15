@@ -7,7 +7,7 @@ All of Possumic's official resources relating to our mmWave SoC series (24GHz/60
 ## Key Resources
 🏷️ SoCs
 
-🏷️ 60GHz
+🏷️ Modules
 #
 [Our complete repository list can be found here](https://github.com/orgs/possumic/repositories).
 
