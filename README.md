@@ -1,4 +1,1 @@
  # .github
-Zhuhai Possumic Technology Co., Ltd. is a leading chip design (IC design?SoC design?) company and total solution provider specializing in mmWave smart sensors. With a focus on "Sensing + Connectivity," we develop integrated sensing-communication solutions that push the boundaries of perception and connection technologies. Our innovations empower AIoT products with intelligent upgrades to meet diverse smart living scenarios.
-Committed to independent R&D and technological breakthroughs, we hold dozens of patents and consider technological innovation and intellectual property our core competitive advantages.
-Our elite technical team delivers comprehensive, one-stop services spanning system hardware, antenna design, interference mitigation, and radar algorithms. Equipped with a professional mmWave/THz laboratory, we provide partners with full-spectrum evaluation and testing platforms.
