@@ -11,7 +11,7 @@ All of Possumic's official resources relating to our mmWave SoC series (24GHz/60
 #
 [Our complete repository list can be found here](https://github.com/orgs/possumic/repositories).
 
-To learn more about our frameworks, solutions, and libraries, please see brief descriptions of some of our projects: [Pussumic Projects](https://github.com/pussumic).
+To learn more about our frameworks, solutions, and libraries, please see brief descriptions of some of our projects: [Pussumic Projects](https://github.com/orgs/possumic/repositories).
 
 If you’re looking for the official MRS2 serises documentation, click this [link](https://www.possumic.com/download) and select your documentation.
 
