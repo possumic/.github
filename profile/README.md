@@ -15,4 +15,4 @@ To learn more about our frameworks, solutions, and libraries, please see brief d
 
 If you’re looking for the official MRS2 serises documentation, click this [link](https://www.possumic.com/download) and select your documentation.
 
-✨ For a full overview of all products and services offered by Pussumic, please visit our official website at [pussumic.com](https://www.possumic.com).
+✨ For a full overview of all products and services offered by Pussumic, please visit our official website at [possumic.com](https://www.possumic.com).
